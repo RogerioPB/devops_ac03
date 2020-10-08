@@ -1,9 +1,14 @@
-print_01:
-print_02:
-print_03:
-print_04:
-print_05:
-print_06:
-print_07:
-print_08:
-print_09:
+print_01: Integração com o Travis-CI
+print_02: Clone do repositório 
+print_03: Criacão da estrutura do projeto
+print_04: Editando .gitignore
+print_05: Git status
+print_06: Primeiro commit
+print_07: Criação e ativação do ambiente virtual
+print_08: Instalando a biblioteca
+print_09: Confirmando instalação
+print_10: Criando requirements.txt e usando git status
+print_11: Primeiro teste com pytest
+print_12: cat test_operacoes.py
+print_13: Configurando travis.yml
+print_14: deploys no travis-CI
